@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "uname": "Arathi",
+      "email": "arathi@gmail.com",
+      "pass": "arathi",
+      "cpass": "arathi",
+      "id": 1
+    },
+    {
+      "uname": "Akshay",
+      "email": "akshay@gmail.com",
+      "pass": "akshay",
+      "cpass": "akshay",
+      "id": 2
+    }
+  ]
+}
