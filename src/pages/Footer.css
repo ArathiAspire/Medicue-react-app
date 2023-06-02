@@ -82,7 +82,15 @@
     color: #e9e9e9;
     transition: 0.3s ease-out;
 }
-
+.sub{
+    color: #dde5e7;
+    border: none;
+    border-radius: .1rem;
+    font-size: large;
+    background-color: #0e4558;
+    padding: .5rem;
+    font-family: 'Times New Roman', Times, serif;
+}
 .footer-email-form h2{
     margin-bottom: 32px;
 }

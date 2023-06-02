@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "../components/Button";
+// import { Button } from "../components/Button";
 import "./Footer.css";
 import { Link } from "react-router-dom";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -19,7 +19,7 @@ const Footer = () => {
               placeholder="Your Email"
               className="footer-input"
             />
-            <Button buttonStyle="btn--outline">Subscribe</Button>
+            <button className="sub">Subscribe</button>
           </form>
         </div>
       </section>

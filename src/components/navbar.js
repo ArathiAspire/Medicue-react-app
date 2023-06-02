@@ -27,6 +27,7 @@ const Navbar = () => {
     showButton()
   },[])
 
+
   window.addEventListener('resize',showButton)
   return (
     <>
@@ -60,7 +61,7 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/sign-up" className="nav-links-mobile" onClick={closeMobileMenu}>
+              <Link to="/signup" className="nav-links-mobile" onClick={closeMobileMenu}>
                 Sign Up
               </Link>
             </li>

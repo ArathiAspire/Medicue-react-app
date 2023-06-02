@@ -13,7 +13,7 @@
 
 .btn--primary{
     background-color: var(--primary);
-    color: #3f56da;
+    color: #cacaca;
     border: 1px solid var(--primary);
 }
 
@@ -28,18 +28,18 @@
 .btn--medium{
     padding: 8px 20px;
     font-size: 20px;
-    color: #5f6bd1;
+    color: #ffffff;
 }
 
 .btn--large{
     padding: 12px 26px;
     font-size: 20px;
-    color: #5f6bd1;
+    color: #ffffff;
 }
 
 .btn--medium:hover,
 .btn--large:hover{
     background:#fff;
-    color: #5f6bd1;
+    color: #175868;
     transition: all 0.3s ease-out;
 }
