@@ -10,7 +10,7 @@ const Footer = () => {
     <div className="footer-container">
       <section className="footer-subscription">
         <p className="footer-subscription-heading">Takes the World's Best Quality Medical Treatments</p>
-        <p className="footer-subscription-text">hjdhjf</p>
+        <p className="footer-subscription-text">With Our Specialists</p>
         <div className="input-areas">
           <form>
             <input
